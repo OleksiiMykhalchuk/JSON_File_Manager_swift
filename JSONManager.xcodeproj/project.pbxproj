@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		8895D91128C73D750092D461 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8895D91028C73D750092D461 /* main.swift */; };
+		8895D91B28C7530F0092D461 /* JSONFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8895D91A28C7530F0092D461 /* JSONFileManager.swift */; };
+		8895D91D28C7540C0092D461 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8895D91C28C7540C0092D461 /* DataModel.swift */; };
+		8895D91F28C7541B0092D461 /* ToDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8895D91E28C7541B0092D461 /* ToDataModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,8 +28,9 @@
 /* Begin PBXFileReference section */
 		8895D90D28C73D750092D461 /* JSONManager */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JSONManager; sourceTree = BUILT_PRODUCTS_DIR; };
 		8895D91028C73D750092D461 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		8895D91728C73DE40092D461 /* JSON */ = {isa = PBXFileReference; lastKnownFileType = folder; path = JSON; sourceTree = "<group>"; };
-		8895D91928C747250092D461 /* collection.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = collection.json; path = JSON/collection.json; sourceTree = "<group>"; };
+		8895D91A28C7530F0092D461 /* JSONFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONFileManager.swift; sourceTree = "<group>"; };
+		8895D91C28C7540C0092D461 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		8895D91E28C7541B0092D461 /* ToDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDataModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +63,10 @@
 		8895D90F28C73D750092D461 /* JSONManager */ = {
 			isa = PBXGroup;
 			children = (
-				8895D91928C747250092D461 /* collection.json */,
-				8895D91728C73DE40092D461 /* JSON */,
 				8895D91028C73D750092D461 /* main.swift */,
+				8895D91A28C7530F0092D461 /* JSONFileManager.swift */,
+				8895D91C28C7540C0092D461 /* DataModel.swift */,
+				8895D91E28C7541B0092D461 /* ToDataModel.swift */,
 			);
 			path = JSONManager;
 			sourceTree = "<group>";
@@ -125,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8895D91128C73D750092D461 /* main.swift in Sources */,
+				8895D91B28C7530F0092D461 /* JSONFileManager.swift in Sources */,
+				8895D91F28C7541B0092D461 /* ToDataModel.swift in Sources */,
+				8895D91D28C7540C0092D461 /* DataModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
