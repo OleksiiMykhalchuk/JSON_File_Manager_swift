@@ -26,6 +26,7 @@
 		8895D90D28C73D750092D461 /* JSONManager */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JSONManager; sourceTree = BUILT_PRODUCTS_DIR; };
 		8895D91028C73D750092D461 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8895D91728C73DE40092D461 /* JSON */ = {isa = PBXFileReference; lastKnownFileType = folder; path = JSON; sourceTree = "<group>"; };
+		8895D91928C747250092D461 /* collection.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = collection.json; path = JSON/collection.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		8895D90F28C73D750092D461 /* JSONManager */ = {
 			isa = PBXGroup;
 			children = (
+				8895D91928C747250092D461 /* collection.json */,
 				8895D91728C73DE40092D461 /* JSON */,
 				8895D91028C73D750092D461 /* main.swift */,
 			);
