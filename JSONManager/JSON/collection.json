@@ -1,0 +1,1688 @@
+{
+  "quiz": [
+    [
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "is going"
+          },
+          {
+            "correct": true,
+            "text": "goes"
+          },
+          {
+            "correct": false,
+            "text": "go"
+          },
+          {
+            "correct": false,
+            "text": "has gone"
+          }
+        ],
+        "question": "Ann .... shopping every day."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "are playing"
+          },
+          {
+            "correct": false,
+            "text": "play"
+          },
+          {
+            "correct": false,
+            "text": "were playing"
+          },
+          {
+            "correct": false,
+            "text": "played"
+          }
+        ],
+        "question": "Frank and Henry .... tennis now."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "no"
+          },
+          {
+            "correct": false,
+            "text": "some"
+          },
+          {
+            "correct": true,
+            "text": "any"
+          },
+          {
+            "correct": false,
+            "text": "much"
+          }
+        ],
+        "question": "We haven't got .... apples."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Must"
+          },
+          {
+            "correct": false,
+            "text": "Should"
+          },
+          {
+            "correct": true,
+            "text": "Can"
+          },
+          {
+            "correct": false,
+            "text": "Do"
+          }
+        ],
+        "question": " .... I watch TV now? No, clean up your room first."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "bar"
+          },
+          {
+            "correct": false,
+            "text": "box"
+          },
+          {
+            "correct": true,
+            "text": "carton"
+          },
+          {
+            "correct": false,
+            "text": "packet"
+          }
+        ],
+        "question": "I'd like a .... of milk, please."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "taller"
+          },
+          {
+            "correct": false,
+            "text": "the tallest"
+          },
+          {
+            "correct": false,
+            "text": "as tall"
+          },
+          {
+            "correct": false,
+            "text": "not as tall"
+          }
+        ],
+        "question": "Betty is .... than Jane."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "The"
+          },
+          {
+            "correct": false,
+            "text": "A"
+          },
+          {
+            "correct": false,
+            "text": "Some"
+          },
+          {
+            "correct": false,
+            "text": "Any"
+          }
+        ],
+        "question": "There is a red car in the street. .... car belongs to my friend."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Can't"
+          },
+          {
+            "correct": true,
+            "text": "Don't"
+          },
+          {
+            "correct": false,
+            "text": "Shouldn't"
+          },
+          {
+            "correct": false,
+            "text": "Didn't"
+          }
+        ],
+        "question": ".... touch the iron. It's very hot."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "is"
+          },
+          {
+            "correct": false,
+            "text": "are"
+          },
+          {
+            "correct": false,
+            "text": "was"
+          },
+          {
+            "correct": true,
+            "text": "were"
+          }
+        ],
+        "question": "There ..... a lot of people at the cinema last night."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Take on"
+          },
+          {
+            "correct": false,
+            "text": "Take off"
+          },
+          {
+            "correct": true,
+            "text": "Put on"
+          },
+          {
+            "correct": false,
+            "text": "Put off"
+          }
+        ],
+        "question": ".... your jumper. It's a bit chilly."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "heating"
+          },
+          {
+            "correct": false,
+            "text": "system"
+          },
+          {
+            "correct": false,
+            "text": "wardrobe"
+          },
+          {
+            "correct": false,
+            "text": "parking"
+          }
+        ],
+        "question": "My new flat has central ...., so it's really warm."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Please."
+          },
+          {
+            "correct": false,
+            "text": "Not at all."
+          },
+          {
+            "correct": true,
+            "text": "Here you are."
+          },
+          {
+            "correct": false,
+            "text": "Thanks."
+          }
+        ],
+        "question": "If you give somebody something, e.g. a drink, you say: ...."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "Will you come"
+          },
+          {
+            "correct": false,
+            "text": "Did you come"
+          },
+          {
+            "correct": false,
+            "text": "Have you come"
+          },
+          {
+            "correct": false,
+            "text": "Do you come"
+          }
+        ],
+        "question": ".... to my party tomorrow?"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "is raining"
+          },
+          {
+            "correct": false,
+            "text": "was raining"
+          },
+          {
+            "correct": true,
+            "text": "is going to rain"
+          },
+          {
+            "correct": false,
+            "text": "has been raining"
+          }
+        ],
+        "question": "Look at the clouds! I think it .... soon."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "is ringing"
+          },
+          {
+            "correct": false,
+            "text": "rings"
+          },
+          {
+            "correct": false,
+            "text": "has rung"
+          },
+          {
+            "correct": true,
+            "text": "rang"
+          }
+        ],
+        "question": "She wasn't at home when the telephone ...."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "look"
+          },
+          {
+            "correct": true,
+            "text": "like"
+          },
+          {
+            "correct": false,
+            "text": "nice"
+          },
+          {
+            "correct": false,
+            "text": "good"
+          }
+        ],
+        "question": "Tell me about your holiday in England. What was the weather .... ?"
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "get"
+          },
+          {
+            "correct": false,
+            "text": "walk"
+          },
+          {
+            "correct": false,
+            "text": "go"
+          },
+          {
+            "correct": false,
+            "text": "come"
+          }
+        ],
+        "question": "Excuse me, how do I .... to the post office from here?"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "always"
+          },
+          {
+            "correct": false,
+            "text": "usually"
+          },
+          {
+            "correct": false,
+            "text": "ever"
+          },
+          {
+            "correct": true,
+            "text": "seldom"
+          }
+        ],
+        "question": "He's an early bird and he .... gets up late."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "don't"
+          },
+          {
+            "correct": false,
+            "text": "didn't"
+          },
+          {
+            "correct": true,
+            "text": "won't"
+          },
+          {
+            "correct": false,
+            "text": "wouldn't"
+          }
+        ],
+        "question": "If you don't study, you .... pass the exam."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "as short"
+          },
+          {
+            "correct": false,
+            "text": "not as short"
+          },
+          {
+            "correct": false,
+            "text": "much shorter"
+          },
+          {
+            "correct": true,
+            "text": "the shortest"
+          }
+        ],
+        "question": "Jones is .... of all the players in our basketball team."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Very well."
+          },
+          {
+            "correct": false,
+            "text": "Please."
+          },
+          {
+            "correct": false,
+            "text": "Why not?"
+          },
+          {
+            "correct": true,
+            "text": "Don't mention it."
+          }
+        ],
+        "question": "\"Thank you very much indeed.\" \"....\""
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Are you ever"
+          },
+          {
+            "correct": false,
+            "text": "Will you ever be"
+          },
+          {
+            "correct": true,
+            "text": "Have you ever been"
+          },
+          {
+            "correct": false,
+            "text": "Were you ever"
+          }
+        ],
+        "question": ".... to London?"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "broke"
+          },
+          {
+            "correct": true,
+            "text": "was broken"
+          },
+          {
+            "correct": false,
+            "text": "had broken"
+          },
+          {
+            "correct": false,
+            "text": "had been broken"
+          }
+        ],
+        "question": "The window .... by some boys playing football yesterday morning."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "do"
+          },
+          {
+            "correct": false,
+            "text": "have"
+          },
+          {
+            "correct": false,
+            "text": "get"
+          },
+          {
+            "correct": true,
+            "text": "make"
+          }
+        ],
+        "question": "Careful students do not .... mistakes."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "too"
+          },
+          {
+            "correct": false,
+            "text": "as"
+          },
+          {
+            "correct": false,
+            "text": "so"
+          },
+          {
+            "correct": true,
+            "text": "such"
+          }
+        ],
+        "question": "Yesterday I attended .... a boring lecture that I nearly fell asleep."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "worked"
+          },
+          {
+            "correct": true,
+            "text": "was working"
+          },
+          {
+            "correct": false,
+            "text": "had worked"
+          },
+          {
+            "correct": false,
+            "text": "have been working"
+          }
+        ],
+        "question": "I .... in the garden when it started to rain."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "for"
+          },
+          {
+            "correct": false,
+            "text": "from"
+          },
+          {
+            "correct": false,
+            "text": "on"
+          },
+          {
+            "correct": false,
+            "text": "about"
+          }
+        ],
+        "question": "If you want someone to give you something, you ask .... it."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "must"
+          },
+          {
+            "correct": false,
+            "text": "can"
+          },
+          {
+            "correct": true,
+            "text": "mustn't"
+          },
+          {
+            "correct": false,
+            "text": "needn't"
+          }
+        ],
+        "question": "This is a no-entry area. We .... go in. If they catch us, we will be in trouble."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "lost"
+          },
+          {
+            "correct": false,
+            "text": "spent"
+          },
+          {
+            "correct": true,
+            "text": "missed"
+          },
+          {
+            "correct": false,
+            "text": "escaped"
+          }
+        ],
+        "question": "\"Why are you late?\" \"Because I .... my bus.\""
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "a few"
+          },
+          {
+            "correct": false,
+            "text": "many"
+          },
+          {
+            "correct": false,
+            "text": "a number of"
+          },
+          {
+            "correct": true,
+            "text": "some"
+          }
+        ],
+        "question": "Janet has bought .... pine furniture for her bedroom."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "meet"
+          },
+          {
+            "correct": true,
+            "text": "join"
+          },
+          {
+            "correct": false,
+            "text": "show"
+          },
+          {
+            "correct": false,
+            "text": "leave"
+          }
+        ],
+        "question": "We're going to the cinema. Why don't you .... us?"
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "who"
+          },
+          {
+            "correct": false,
+            "text": "whom"
+          },
+          {
+            "correct": false,
+            "text": "which"
+          },
+          {
+            "correct": false,
+            "text": "whose"
+          }
+        ],
+        "question": "I like girls .... are pretty."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "is he"
+          },
+          {
+            "correct": false,
+            "text": "isn't he"
+          },
+          {
+            "correct": true,
+            "text": "does he"
+          },
+          {
+            "correct": false,
+            "text": "doesn't he"
+          }
+        ],
+        "question": "John doesn't smoke, .... ?"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "or"
+          },
+          {
+            "correct": false,
+            "text": "nor"
+          },
+          {
+            "correct": false,
+            "text": "either"
+          },
+          {
+            "correct": true,
+            "text": "neither"
+          }
+        ],
+        "question": "Ted leads a very healthy lifestyle. He .... drinks nor smokes."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "home"
+          },
+          {
+            "correct": true,
+            "text": "house"
+          },
+          {
+            "correct": false,
+            "text": "flat"
+          },
+          {
+            "correct": false,
+            "text": "room"
+          }
+        ],
+        "question": "Paul moved .... last month."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Someone"
+          },
+          {
+            "correct": false,
+            "text": "Everyone"
+          },
+          {
+            "correct": false,
+            "text": "Anyone"
+          },
+          {
+            "correct": true,
+            "text": "No one"
+          }
+        ],
+        "question": ".... has ever treated me like that!"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "see"
+          },
+          {
+            "correct": false,
+            "text": "have seen"
+          },
+          {
+            "correct": true,
+            "text": "am seeing"
+          },
+          {
+            "correct": false,
+            "text": "will have seen"
+          }
+        ],
+        "question": "I .... my dentist tomorrow."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "the film starts"
+          },
+          {
+            "correct": false,
+            "text": "does the film start"
+          },
+          {
+            "correct": false,
+            "text": "the film will start"
+          },
+          {
+            "correct": false,
+            "text": "will the film start"
+          }
+        ],
+        "question": "Do you know what time .... ?"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "will buy"
+          },
+          {
+            "correct": false,
+            "text": "have bought"
+          },
+          {
+            "correct": false,
+            "text": "bought"
+          },
+          {
+            "correct": true,
+            "text": "would buy"
+          }
+        ],
+        "question": "If I had enough money, I .... a new bicycle."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "perk"
+          },
+          {
+            "correct": true,
+            "text": "wage"
+          },
+          {
+            "correct": false,
+            "text": "salary"
+          },
+          {
+            "correct": false,
+            "text": "pension"
+          }
+        ],
+        "question": "Pay received on a weekly basis is called a .... ."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "to watch"
+          },
+          {
+            "correct": true,
+            "text": "watch"
+          },
+          {
+            "correct": false,
+            "text": "watching"
+          },
+          {
+            "correct": false,
+            "text": "to watching"
+          }
+        ],
+        "question": "Fred's mother doesn't let him .... television for hours."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "off"
+          },
+          {
+            "correct": false,
+            "text": "back"
+          },
+          {
+            "correct": true,
+            "text": "down"
+          },
+          {
+            "correct": false,
+            "text": "over"
+          }
+        ],
+        "question": "If you do not accept an offer, an invitation or a job, you turn it .... ."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Do you work"
+          },
+          {
+            "correct": false,
+            "text": "Are you working"
+          },
+          {
+            "correct": false,
+            "text": "Had you worked"
+          },
+          {
+            "correct": true,
+            "text": "Have you been working"
+          }
+        ],
+        "question": ".... here long?"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "easy"
+          },
+          {
+            "correct": false,
+            "text": "well-paid"
+          },
+          {
+            "correct": false,
+            "text": "urgent"
+          },
+          {
+            "correct": true,
+            "text": "demanding"
+          }
+        ],
+        "question": "If a task or a job is challenging, it is very .... ."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "will return"
+          },
+          {
+            "correct": true,
+            "text": "would return"
+          },
+          {
+            "correct": false,
+            "text": "has returned"
+          },
+          {
+            "correct": false,
+            "text": "had returned"
+          }
+        ],
+        "question": "Barbara told me she .... to Poland the following year."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "It looks like rain."
+          },
+          {
+            "correct": false,
+            "text": "It stopped raining."
+          },
+          {
+            "correct": false,
+            "text": "It's pouring with rain."
+          },
+          {
+            "correct": false,
+            "text": "It never rains but it pours."
+          }
+        ],
+        "question": "If it is about to rain, you might say: \"....\""
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "offered"
+          },
+          {
+            "correct": true,
+            "text": "suggested"
+          },
+          {
+            "correct": false,
+            "text": "invited"
+          },
+          {
+            "correct": false,
+            "text": "asked"
+          }
+        ],
+        "question": "Philip .... going for a swim."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "can"
+          },
+          {
+            "correct": false,
+            "text": "can't"
+          },
+          {
+            "correct": true,
+            "text": "could"
+          },
+          {
+            "correct": false,
+            "text": "couldn't"
+          }
+        ],
+        "question": "I wish I .... drive a car. I think I'll take some driving lessons."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "fly"
+          },
+          {
+            "correct": false,
+            "text": "are flying"
+          },
+          {
+            "correct": false,
+            "text": "will fly"
+          },
+          {
+            "correct": true,
+            "text": "will be flying"
+          }
+        ],
+        "question": "This time tomorrow we .... to London."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "outside"
+          },
+          {
+            "correct": false,
+            "text": "outdoors"
+          },
+          {
+            "correct": true,
+            "text": "outskirts"
+          },
+          {
+            "correct": false,
+            "text": "outwards"
+          }
+        ],
+        "question": "He lives on the .... of London."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "to meet"
+          },
+          {
+            "correct": true,
+            "text": "meeting"
+          },
+          {
+            "correct": false,
+            "text": "have met"
+          },
+          {
+            "correct": false,
+            "text": "had met"
+          }
+        ],
+        "question": "I'll never forget .... her."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "gets"
+          },
+          {
+            "correct": false,
+            "text": "got"
+          },
+          {
+            "correct": false,
+            "text": "will get"
+          },
+          {
+            "correct": false,
+            "text": "has got"
+          }
+        ],
+        "question": "Take a jacket with you in case it .... cold."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "upset"
+          },
+          {
+            "correct": false,
+            "text": "furious"
+          },
+          {
+            "correct": true,
+            "text": "rude"
+          },
+          {
+            "correct": false,
+            "text": "annoyed"
+          }
+        ],
+        "question": "He has a reputation for being .... to his employees."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "repairs it"
+          },
+          {
+            "correct": false,
+            "text": "has repaired it"
+          },
+          {
+            "correct": true,
+            "text": "has it repaired"
+          },
+          {
+            "correct": false,
+            "text": "had it repaired"
+          }
+        ],
+        "question": "My neighbour's car breaks down a lot. He always .... by the mechanics at the local garage."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "won't leave"
+          },
+          {
+            "correct": false,
+            "text": "don't leave"
+          },
+          {
+            "correct": true,
+            "text": "didn't leave"
+          },
+          {
+            "correct": false,
+            "text": "hadn't left"
+          }
+        ],
+        "question": "I'd rather we .... until tomorrow."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "qualified"
+          },
+          {
+            "correct": true,
+            "text": "committed"
+          },
+          {
+            "correct": false,
+            "text": "expert"
+          },
+          {
+            "correct": false,
+            "text": "trained"
+          }
+        ],
+        "question": "Oxfam is .... to helping the poor."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "has studied"
+          },
+          {
+            "correct": false,
+            "text": "has been studying"
+          },
+          {
+            "correct": false,
+            "text": "was studying"
+          },
+          {
+            "correct": true,
+            "text": "had studied"
+          }
+        ],
+        "question": "Joanna .... English for 3 years before she went to England."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "old"
+          },
+          {
+            "correct": true,
+            "text": "not old"
+          },
+          {
+            "correct": false,
+            "text": "young"
+          },
+          {
+            "correct": false,
+            "text": "not young"
+          }
+        ],
+        "question": "Richard is .... enough to apply for the job. They are looking for someone with more experience."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "would be"
+          },
+          {
+            "correct": false,
+            "text": "might be"
+          },
+          {
+            "correct": true,
+            "text": "could have been"
+          },
+          {
+            "correct": false,
+            "text": "must have been"
+          }
+        ],
+        "question": "It's a good thing the driver managed to brake just in time. You .... killed."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "stops"
+          },
+          {
+            "correct": false,
+            "text": "accelerates"
+          },
+          {
+            "correct": false,
+            "text": "drives off"
+          },
+          {
+            "correct": false,
+            "text": "slows down"
+          }
+        ],
+        "question": "If a car pulls up, it .... ."
+      }
+    ],
+    [
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "gone"
+          },
+          {
+            "correct": true,
+            "text": "been"
+          },
+          {
+            "correct": false,
+            "text": "arrived"
+          },
+          {
+            "correct": false,
+            "text": "come"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have (61).... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "much"
+          },
+          {
+            "correct": false,
+            "text": "few"
+          },
+          {
+            "correct": false,
+            "text": "a little"
+          },
+          {
+            "correct": true,
+            "text": "a lot"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited (62).... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "just"
+          },
+          {
+            "correct": false,
+            "text": "already"
+          },
+          {
+            "correct": true,
+            "text": "yet"
+          },
+          {
+            "correct": false,
+            "text": "never"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen (63).... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "went"
+          },
+          {
+            "correct": false,
+            "text": "saw"
+          },
+          {
+            "correct": false,
+            "text": "got"
+          },
+          {
+            "correct": false,
+            "text": "left"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we (64).... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "where"
+          },
+          {
+            "correct": false,
+            "text": "who"
+          },
+          {
+            "correct": false,
+            "text": "whose"
+          },
+          {
+            "correct": true,
+            "text": "which"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace (65).... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "world"
+          },
+          {
+            "correct": false,
+            "text": "globe"
+          },
+          {
+            "correct": false,
+            "text": "continent"
+          },
+          {
+            "correct": false,
+            "text": "countryside"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the (66).... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "guests"
+          },
+          {
+            "correct": true,
+            "text": "visitors"
+          },
+          {
+            "correct": false,
+            "text": "strangers"
+          },
+          {
+            "correct": false,
+            "text": "neighbours"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so (67).... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "prefer"
+          },
+          {
+            "correct": false,
+            "text": "need"
+          },
+          {
+            "correct": true,
+            "text": "had better"
+          },
+          {
+            "correct": false,
+            "text": "want"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I (68).... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "next"
+          },
+          {
+            "correct": false,
+            "text": "other"
+          },
+          {
+            "correct": false,
+            "text": "new"
+          },
+          {
+            "correct": true,
+            "text": "another"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting (69).... city, so we have to get up early. See you .... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "for"
+          },
+          {
+            "correct": true,
+            "text": "in"
+          },
+          {
+            "correct": false,
+            "text": "after"
+          },
+          {
+            "correct": false,
+            "text": "behind"
+          }
+        ],
+        "question": "Dear Demi, Greetings from Beijing. Liz and I have .... in China for a week now. We've already visited .... of interesting places but there's so much we haven't seen .... . Yesterday we .... to the Summer Palace .... is one of the most famous royal gardens in the .... . It is located just outside Beijing and it's really amazing. It's also very well-preserved, so .... can see many of its beautiful features. Well, I .... go and get some rest now. Tomorrow we're visiting .... city, so we have to get up early. See you (70).... a week. All the best, Anna"
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Besides"
+          },
+          {
+            "correct": false,
+            "text": "What is more"
+          },
+          {
+            "correct": false,
+            "text": "All in all"
+          },
+          {
+            "correct": true,
+            "text": "For example"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. (71)...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "due"
+          },
+          {
+            "correct": true,
+            "text": "as a result"
+          },
+          {
+            "correct": false,
+            "text": "in addition"
+          },
+          {
+            "correct": false,
+            "text": "so that"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" (72).... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "than"
+          },
+          {
+            "correct": false,
+            "text": "to"
+          },
+          {
+            "correct": false,
+            "text": "from"
+          },
+          {
+            "correct": false,
+            "text": "even"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV (73).... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "say"
+          },
+          {
+            "correct": true,
+            "text": "are said"
+          },
+          {
+            "correct": false,
+            "text": "said"
+          },
+          {
+            "correct": false,
+            "text": "were said"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people (74).... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "contact"
+          },
+          {
+            "correct": false,
+            "text": "connection"
+          },
+          {
+            "correct": true,
+            "text": "touch"
+          },
+          {
+            "correct": false,
+            "text": "pace"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in (75).... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "Despite"
+          },
+          {
+            "correct": true,
+            "text": "However"
+          },
+          {
+            "correct": false,
+            "text": "Although"
+          },
+          {
+            "correct": false,
+            "text": "In spite"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. (76).... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "exchanged"
+          },
+          {
+            "correct": false,
+            "text": "removed"
+          },
+          {
+            "correct": false,
+            "text": "overtaken"
+          },
+          {
+            "correct": true,
+            "text": "replaced"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  (77).... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "more"
+          },
+          {
+            "correct": false,
+            "text": "the more"
+          },
+          {
+            "correct": true,
+            "text": "most"
+          },
+          {
+            "correct": false,
+            "text": "the most"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that (78).... changes technology has brought are negative .... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": false,
+            "text": "but"
+          },
+          {
+            "correct": false,
+            "text": "still"
+          },
+          {
+            "correct": true,
+            "text": "as"
+          },
+          {
+            "correct": false,
+            "text": "also"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative (79).... it hasn't managed to bring us closer. .... , others argue that things may be different but not necessarily worse since change is part of life."
+      },
+      {
+        "choices": [
+          {
+            "correct": true,
+            "text": "Nevertheless"
+          },
+          {
+            "correct": false,
+            "text": "Regardless"
+          },
+          {
+            "correct": false,
+            "text": "Anyway"
+          },
+          {
+            "correct": false,
+            "text": "Similarly"
+          }
+        ],
+        "question": "According to a recent survey, technology has influenced our lives in various ways. ...., more and more people have become \"couch potatoes\" .... of spending more time watching TV .... being with their family or friends. A great number of people .... to use the Internet every day not only for professional reasons but also to keep in .... with friends and relatives. .... , the majority of the people who were interviewed do not believe that books will eventually be  .... by the net. Some people claim that .... changes technology has brought are negative .... it hasn't managed to bring us closer. (80).... , others argue that things may be different but not necessarily worse since change is part of life."
+      }
+    ]
+  ]
+}
