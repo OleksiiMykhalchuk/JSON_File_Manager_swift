@@ -11,30 +11,41 @@ let filePath = "file:///Users/imac/Documents"
 let fileName = "collection.json"
 let toFileName = "toCollection.json"
 
-let jsonFileManager = try? JSONFileManager(
-    filePath: filePath,
-    fileName: fileName,
-    toFileName: toFileName,
-    fromModel: Quiz.self,
-    toModel: ToQuiz.self,
-    forEach: { item -> ToQuiz in
-        var toItems: [ToItem] = []
-        var category = ""
-        var counter = 0
-        item.quiz.forEach { items in
-            switch counter {
-            case 0:
-                category = "placementTest"
-            case 1:
-                category = "sentences"
-            default:
-                category = ""
+enum Category: String {
+    case placementTest
+    case sentences
+}
+
+do {
+    _ = try JSONFileManager(
+        filePath: filePath,
+        fileName: fileName,
+        toFileName: toFileName,
+        fromModel: Quiz.self,
+        toModel: ToQuiz.self) { item -> ToQuiz in
+            var toItems: [ToItem] = []
+            var category = ""
+            var counter = 0
+            item.quiz.forEach { items in
+                switch counter {
+                case 0:
+                    category = Category.placementTest.rawValue
+                case 1:
+                    category = Category.sentences.rawValue
+                default:
+                    category = ""
+                }
+                items.forEach { item in
+                    let toItem = ToItem(question: item.question, category: category, choices: item.choices)
+                    toItems.append(toItem)
+                }
+                counter += 1
             }
-            items.forEach { item in
-                let toItem = ToItem(question: item.question, category: category, choices: item.choices)
-                toItems.append(toItem)
-            }
-            counter += 1
+            return ToQuiz(quiz: toItems)
         }
-        return ToQuiz(quiz: toItems)
-    })
+    print("Successfully Managed!!!")
+    print("\(FileManager.default.currentDirectoryPath)")
+} catch {
+    print("\(error)")
+}
+
